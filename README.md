@@ -12,7 +12,9 @@ Visit my github page: https://skhanzad.github.io
 ![snake gif](https://github.com/skhanzad/skhanzad/blob/output/ocean.svg)
 [![Suren's GitHub stats](https://github-readme-stats.vercel.app/api?username=skhanzad&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skhanzad&hide_progress=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 [![Surens's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skhanzad)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/skhanzad)
